@@ -1,0 +1,12 @@
+{
+  "name": "offshore-mock-api",
+  "version": "1.0.0",
+  "description": "Mock API for offshore wind projects",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
